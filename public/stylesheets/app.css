@@ -1,0 +1,14 @@
+i.icon{
+    font-size: 2em;
+}
+.container.main {
+    margin-top: 7.0em;
+}
+
+#Delete {
+    display: inline;
+}
+#footerTag {
+    text-align: center;
+    margin-top: 100px;
+}
